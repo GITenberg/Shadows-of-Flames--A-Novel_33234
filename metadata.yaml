@@ -1,0 +1,40 @@
+_repo: Shadows-of-Flames--A-Novel_33234
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dewey, Alfred James
+    birthdate: 1874
+    deathdate: 1958
+    gutenberg_agent_id: '32731'
+    url: http://www.gutenberg.org/2009/agents/32731
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rives, Amélie
+    aliases:
+    - Chandler, Amélie Rives
+    - Rives, Amelie
+    - Troubetzkoy, Amélie Louise Rives
+    birthdate: 1863
+    deathdate: 1945
+    gutenberg_agent_id: '31939'
+    url: http://www.gutenberg.org/2009/agents/31939
+    wikipedia: http://en.wikipedia.org/wiki/Am%C3%A9lie_Rives_Troubetzkoy
+description: ''
+gutenberg_issued: '2010-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mothers and sons -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'Women -- Fiction'
+title: 'Shadows of Flames: A Novel'
+url: http://www.gutenberg.org/ebooks/33234
