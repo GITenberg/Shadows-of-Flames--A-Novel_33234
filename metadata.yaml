@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31939
     wikipedia: http://en.wikipedia.org/wiki/Am%C3%A9lie_Rives_Troubetzkoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33234#Shadows-of-Flames--A-Novel
 gutenberg_issued: '2010-07-23'
 gutenberg_type: Text
 identifiers:
